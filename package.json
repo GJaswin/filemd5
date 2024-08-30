@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "md5": "^2.3.0"
-  }
+  },
+  "name": "jkhash_71772217301",
+  "version": "1.0.0",
+  "description": "A package to return the md5 hash of files. By Jaswin - 71772217301",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJaswin/filemd5.git"
+  },
+  "keywords": [
+    "hashing",
+    "md5"
+  ],
+  "author": "Jaswin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GJaswin/filemd5/issues"
+  },
+  "homepage": "https://github.com/GJaswin/filemd5#readme"
 }
